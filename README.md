@@ -1,3 +1,3 @@
-# geth
+# parity 
 
-https://hub.docker.com/r/ethereum/client-go/
+https://hub.docker.com/r/parity/parity/
